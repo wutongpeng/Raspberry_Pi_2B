@@ -1,0 +1,3 @@
+test2
+client能发送一个数据,并且接收到打印
+server收到打印出来然后返回给client

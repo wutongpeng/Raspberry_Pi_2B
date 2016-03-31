@@ -1,0 +1,3 @@
+test2
+client能发送一个数据,并且接收到打印
+server收到命令后调用dht11函数获取温度值，然后发送给client
